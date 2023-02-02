@@ -1,5 +1,2 @@
 This is text file 1. 
 
-aaaaa
-
-branch1
